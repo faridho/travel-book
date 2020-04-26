@@ -13,6 +13,6 @@
 
 ![alt_text](ScreenShot/ss-1.png)
 ![alt_text](ScreenShot/ss-2.png)
-[alt_text](ScreenShot/ss-3.png)
+![alt_text](ScreenShot/ss-3.png)
 
 * **Faridho** - [Medium](https://medium.com/@faridho)
