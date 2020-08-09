@@ -9,11 +9,10 @@
 4. To view detail map, select one of location name in list.
 5. Detail location and map pin will be show in detail screen.
 
-# Screnshoot
+# Screenshot
 
 ![alt_text](ScreenShot/ss-1.png)
 ![alt_text](ScreenShot/ss-3.png)
 ![alt_text](ScreenShot/ss-2.png)
 
 
-* **Faridho** - [Medium](https://medium.com/@faridho)
